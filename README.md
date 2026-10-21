@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://snapshots.chaindigital.tech"><img src="https://raw.githubusercontent.com/chaindigital/endpoints/main/media/banner.svg?v=4" alt="Chain Digital — Celestia RPC, API and snapshots"/></a>
+  <a href="https://snapshots.chaindigital.tech"><img src="https://raw.githubusercontent.com/chaindigital/endpoints/main/media/banner.svg?v=5" alt="Chain Digital — Celestia RPC, API and snapshots"/></a>
 </p>
 
 <p align="center">
