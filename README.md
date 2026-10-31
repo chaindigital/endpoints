@@ -28,6 +28,9 @@ The live page at **[snapshots.chaindigital.tech](https://snapshots.chaindigital.
 | **Snapshot** | [`latest.tar.zst`](https://snapshots.chaindigital.tech/celestia/mainnet/latest.tar.zst) | [`latest.tar.zst`](https://snapshots.chaindigital.tech/celestia/mocha-5/latest.tar.zst) |
 | **Manifest** | [`latest.json`](https://snapshots.chaindigital.tech/celestia/mainnet/latest.json) | [`latest.json`](https://snapshots.chaindigital.tech/celestia/mocha-5/latest.json) |
 | **All files** | [`/celestia/mainnet/`](https://snapshots.chaindigital.tech/celestia/mainnet/) | [`/celestia/mocha-5/`](https://snapshots.chaindigital.tech/celestia/mocha-5/) |
+| **Peers** | [`peers.txt`](https://chaindigital.tech/celestia/mainnet/peers.txt) | [`peers.txt`](https://chaindigital.tech/celestia/mocha-5/peers.txt) |
+| **Address book** | [`addrbook.json`](https://chaindigital.tech/celestia/mainnet/addrbook.json) | [`addrbook.json`](https://chaindigital.tech/celestia/mocha-5/addrbook.json) |
+| **Genesis** | [`celestiaorg/networks`](https://raw.githubusercontent.com/celestiaorg/networks/master/celestia/genesis.json) | [`celestiaorg/networks`](https://raw.githubusercontent.com/celestiaorg/networks/master/mocha-5/genesis.json) |
 
 ### Quick check
 
